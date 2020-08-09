@@ -2,7 +2,7 @@
 title: "Lab1"
 author: "RicardoPineda"
 date: "8/5/2020"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ### Problema 1
