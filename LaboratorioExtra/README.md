@@ -1,3 +1,3 @@
 # Laboratorio Extra
 
-[img](https://i.imgur.com/CTtEhuX.png)
+[!img](https://i.imgur.com/CTtEhuX.png)
